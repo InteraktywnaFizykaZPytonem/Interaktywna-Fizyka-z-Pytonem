@@ -16,8 +16,8 @@ Nie musisz nic instalować. Swoje zmiany możesz zapisać przez *Plik → Zapisz
 
 | # | Lekcja | Czego się nauczysz | Otwórz |
 |---|--------|--------------------|--------|
-| 1 | **Gdzie jest pszczoła?** | układ odniesienia, współrzędne x, y, z, wektor położenia, długość wektora | [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TWOJ_LOGIN/NAZWA_REPO/blob/main/Kinematyka_1_polozenie.ipynb) |
-| 2 | **Dokąd i jak szybko leci pszczoła?** | przemieszczenie, prędkość jako wektor, lot do kwiatka | [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TWOJ_LOGIN/NAZWA_REPO/blob/main/Kinematyka_2_predkosc.ipynb) |
+| 1 | **Gdzie jest pszczoła?** | układ odniesienia, współrzędne x, y, z, wektor położenia, długość wektora | [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/InteraktywnaFizykaZPytonem/Interaktywna-Fizyka-z-Pytonem/blob/main/Kinematyka_1_polozenie.ipynb) |
+| 2 | **Dokąd i jak szybko leci pszczoła?** | przemieszczenie, prędkość jako wektor, lot do kwiatka | [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/InteraktywnaFizykaZPytonem/Interaktywna-Fizyka-z-Pytonem/blob/main/Kinematyka_2_predkosc.ipynb) |
 | 3 | *Przyspieszenie* | *wkrótce* | – |
 | 4 | *Rzut ukośny* | *wkrótce* | – |
 | 5 | *Wahadło* | *wkrótce* | – |
