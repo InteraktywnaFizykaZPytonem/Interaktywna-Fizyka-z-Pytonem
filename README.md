@@ -19,8 +19,9 @@ Nie musisz nic instalować. Swoje zmiany możesz zapisać przez *Plik → Zapisz
 | 1 | **Gdzie jest pszczoła?** | układ odniesienia, współrzędne x, y, z, wektor położenia, długość wektora | [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/InteraktywnaFizykaZPytonem/Interaktywna-Fizyka-z-Pytonem/blob/main/Kinematyka_1_polozenie.ipynb) |
 | 2 | **Dokąd i jak szybko leci pszczoła?** | przemieszczenie, prędkość jako wektor, lot do kwiatka | [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/InteraktywnaFizykaZPytonem/Interaktywna-Fizyka-z-Pytonem/blob/main/Kinematyka_2_predkosc.ipynb) |
 | 3 | **Pszczoła przyspiesza** | przyspieszenie jako wektor, ruch ze stałym przyspieszeniem, pszczoła kontra pociąg, wykresy x(t), v(t), a(t) | [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/InteraktywnaFizykaZPytonem/Interaktywna-Fizyka-z-Pytonem/blob/main/Kinematyka_3_przyspieszenie.ipynb) |
-| 4 | *Rzut ukośny* | *wkrótce* | – |
-| 5 | *Wahadło* | *wkrótce* | – |
+| 4 | **Pszczoła krąży** | współrzędne walcowe i kuliste, ruch po okręgu (ω, T, v, przyspieszenie dośrodkowe), ruch po spirali | [![Otwórz w Colabie](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/InteraktywnaFizykaZPytonem/Interaktywna-Fizyka-z-Pytonem/blob/main/Kinematyka_4_ruch_po_okregu.ipynb) |
+| 5 | *Rzut ukośny* | *wkrótce* | – |
+| 6 | *Wahadło* | *wkrótce* | – |
 
 Lekcje warto robić po kolei – każda zakłada znajomość poprzedniej.
 
